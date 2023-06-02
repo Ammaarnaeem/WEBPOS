@@ -1,3 +1,3 @@
 # WEBPOS
-### Introducing WebPOS: Your Simple Web-Based Point of Sale Database Project
+### Introducing WebPOS: Simple Web-Based Point of Sale Database Project
 WebPOS is a user-friendly web-based database project focused on point of sales management. Designed with simplicity in mind, it offers basic yet essential functionalities for businesses. With WebPOS, users can easily add and manage their own data, including product information and supplier details. This project aims to streamline the process of keeping track of available products and the corresponding suppliers. Whether you're a small business owner or an individual looking for an efficient solution, WebPOS provides an intuitive interface and straightforward features to simplify your point of sale operations. Experience the convenience of WebPOS and take control of your inventory and sales effortlessly.
